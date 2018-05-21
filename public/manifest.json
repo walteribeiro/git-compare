@@ -1,0 +1,9 @@
+{
+  "name": "Git Compare",
+  "short_name": "Git Compare",
+  "theme_color": "#267ae9",
+  "background_color": "#267ae9",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/"
+}
